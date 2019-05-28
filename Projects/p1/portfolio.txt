@@ -1,0 +1,6 @@
+eth 3.33
+btc 1.23
+ltc 24
+doge 300583.33
+bch 2.36
+miota 1000
